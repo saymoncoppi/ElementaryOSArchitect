@@ -1,0 +1,3 @@
+wallpaper
+delay
+single OS
