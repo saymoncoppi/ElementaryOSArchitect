@@ -8,6 +8,9 @@ https://linuxconfig.org/how-to-disable-nouveau-nvidia-driver-on-ubuntu-18-04-bio
 https://tutorials.technology/tutorials/85-How-to-remove-Nouveau-kernel-driver-Nvidia-install-error.html
 http://lxle.net/forums/discussion/1457/tutorial-how-to-blacklist-nouveau-install-nvidia-drivers/p1
 
+A propria nvia falar pra usar o driver da distro
+https://www.nvidia.com.br/Download/driverResults.aspx/156799/br
+http://us.download.nvidia.com/XFree86/Linux-x86_64/435.21/README/index.html
 
 
 touch blacklist-nouveau-nvidia.conf
