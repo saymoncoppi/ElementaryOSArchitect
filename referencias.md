@@ -1,4 +1,4 @@
-# ElementaryOS Architect
+# Elementary XP
 Desde que eu fui forçado a migrar do Deepin por causa do suporte ao HW do meu note novo eu voltei a olhar pro Elementary que eu sempre quis usar...
 
 
