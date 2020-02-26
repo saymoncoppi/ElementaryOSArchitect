@@ -12,4 +12,5 @@ https://bugs.launchpad.net/ubuntu/+source/grub2-signed/+bug/1840560
 
 https://askubuntu.com/questions/1174374/grub-issues-message-at-boot-error-cant-find-command-hwmatch/1174386#1174386
 
+funciona com esse
 https://github.com/WhyNotHugo/grub-holdshift
