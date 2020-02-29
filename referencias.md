@@ -71,7 +71,8 @@ https://github.com/endeavouros-team/grub2-theme-endeavouros
 ## default grub wallpaper
 https://news-cdn.softpedia.com/images/news2/here-s-the-default-theme-and-artwork-for-debian-gnu-linux-10-buster-524538-4.jpg
 
-## default wallpaper
+## default wallpaper + lidghtdm 
+https://www.faqforge.com/linux/set-lightdm-wallpaper-that-is-independant-of-the-users-wallpaper-ubuntulinux-mint/
 gsettings get org.gnome.desktop.background picture-uri
 
 ## etc/systemd to reduce timeout for shutdown
