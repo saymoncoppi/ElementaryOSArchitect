@@ -58,3 +58,18 @@ https://gist.github.com/ezeeyahoo/b21c0e12bf4c39622af8
 http://eos-snippets.blogspot.com/2014/02/add-open-as-root-to-pantheon-files.html
 
 https://www.linuxuprising.com/2019/07/material-shell-is-new-tiling-shell-for.html
+
+
+## single click (no need sudo)
+gsettings set io.elementary.files.preferences single-click false
+
+## grub themes
+https://github.com/mateosss/matter
+https://github.com/vinceliuice/grub2-themes
+https://github.com/endeavouros-team/grub2-theme-endeavouros
+
+## default grub wallpaper
+https://news-cdn.softpedia.com/images/news2/here-s-the-default-theme-and-artwork-for-debian-gnu-linux-10-buster-524538-4.jpg
+
+## default wallpaper
+gsettings get org.gnome.desktop.background picture-uri
