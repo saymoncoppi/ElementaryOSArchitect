@@ -73,3 +73,9 @@ https://news-cdn.softpedia.com/images/news2/here-s-the-default-theme-and-artwork
 
 ## default wallpaper
 gsettings get org.gnome.desktop.background picture-uri
+
+## etc/systemd to reduce timeout for shutdown
+https://unix.stackexchange.com/questions/273876/a-stop-job-is-running-for-session-c2-of-user
+Disable "Continue running background apps when Google Chrome is closed".
+https://github.com/systemd/systemd/issues/1615#issuecomment-203507283
+https://unix.stackexchange.com/questions/328317/reducing-shutdown-timeout-for-a-stop-job-is-running
