@@ -80,3 +80,12 @@ https://unix.stackexchange.com/questions/273876/a-stop-job-is-running-for-sessio
 Disable "Continue running background apps when Google Chrome is closed".
 https://github.com/systemd/systemd/issues/1615#issuecomment-203507283
 https://unix.stackexchange.com/questions/328317/reducing-shutdown-timeout-for-a-stop-job-is-running
+
+## Flicker free booting improvments
+Systemd Alinhando XDG_VTNR
+https://unix.stackexchange.com/questions/521037/what-is-the-environment-variable-xdg-vtnr https://askubuntu.com/questions/910108/why-is-my-gdm-at-a-different-tty-than-my-desktop-environment
+https://unix.stackexchange.com/questions/399986/systemd-change-default-login-tty
+
+/etc/init/lightdm.conf
+/etc/systemd/system/display-manager.service
+
