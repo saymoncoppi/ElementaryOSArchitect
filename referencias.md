@@ -3,7 +3,8 @@ Desde que eu fui forçado a migrar do Deepin por causa do suporte ao HW do meu n
 
 
 
-
+## Jogos
+https://connorkuehl.github.io/dell-inspiron-7559-linux-guide/
 https://www.reddit.com/r/linux_gaming/comments/aoh5be/guide_hybrid_graphics_on_linux_nvidia_optimus/?utm_source=amp&utm_medium=&utm_content=post_body
 
 Isso funciona para o video
