@@ -52,7 +52,7 @@ https://elementaryos.stackexchange.com/questions/13058/replacing-slingshot
 https://github.com/snwh/paper-icon-theme commando para ajustar icon
 https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
 
-
+## Perfect elementary references
 https://gist.github.com/ezeeyahoo/b21c0e12bf4c39622af8
 
 http://eos-snippets.blogspot.com/2014/02/add-open-as-root-to-pantheon-files.html
