@@ -69,6 +69,7 @@ https://github.com/mateosss/matter
 https://github.com/vinceliuice/grub2-themes
 https://github.com/endeavouros-team/grub2-theme-endeavouros
 https://github.com/shvchk/poly-dark
+https://github.com/Generator/Grub2-themes
 
 ## grub
 http://www.pclinuxos.com/forum/index.php?topic=135915.0
