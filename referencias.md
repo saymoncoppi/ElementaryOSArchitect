@@ -95,3 +95,5 @@ https://unix.stackexchange.com/questions/399986/systemd-change-default-login-tty
 /etc/init/lightdm.conf
 /etc/systemd/system/display-manager.service
 
+## TLP no PopOS
+https://support.system76.com/articles/battery/
