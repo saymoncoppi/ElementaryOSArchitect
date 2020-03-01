@@ -68,6 +68,11 @@ gsettings set io.elementary.files.preferences single-click false
 https://github.com/mateosss/matter
 https://github.com/vinceliuice/grub2-themes
 https://github.com/endeavouros-team/grub2-theme-endeavouros
+https://github.com/shvchk/poly-dark
+
+## grub
+http://www.pclinuxos.com/forum/index.php?topic=135915.0
+https://ubuntuforums.org/showthread.php?t=1287602
 
 ## default grub wallpaper
 https://news-cdn.softpedia.com/images/news2/here-s-the-default-theme-and-artwork-for-debian-gnu-linux-10-buster-524538-4.jpg
