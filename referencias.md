@@ -105,6 +105,7 @@ https://unix.stackexchange.com/questions/273876/a-stop-job-is-running-for-sessio
 Disable "Continue running background apps when Google Chrome is closed".
 https://github.com/systemd/systemd/issues/1615#issuecomment-203507283
 https://unix.stackexchange.com/questions/328317/reducing-shutdown-timeout-for-a-stop-job-is-running
+https://askubuntu.com/questions/800479/ubuntu-16-04-slow-boot-apt-daily-service
 
 ## Flicker free booting improvments
 Systemd Alinhando XDG_VTNR
@@ -119,3 +120,41 @@ https://wiki.archlinux.org/index.php/Silent_boot
 
 ## TLP no PopOS
 https://support.system76.com/articles/battery/
+
+## Performance
+https://4fasters.com.br/2018/08/14/tunando-seu-sistema-linux-com-tuned/
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/power_management_guide/tuned
+https://wiki.debian.org/BootProcessSpeedup
+https://konkor.github.io/cpufreq/about/
+
+
+## drivers
+https://unix.stackexchange.com/questions/41817/linux-how-to-find-the-device-driver-used-for-a-device/225496#225496
+
+## SSD
+https://easylinuxtipsproject.blogspot.com/p/ssd.html
+https://medium.com/@dardovaldez/fine-tunning-a-ssd-for-a-t470-ubuntu-18-04-b504dceaef50
+https://www.addictivetips.com/ubuntu-linux-tips/best-ssd-friendly-file-systems-on-linux/
+https://wiki.debian.org/SSDOptimization
+https://wiki.archlinux.org/index.php/Solid_state_drive
+https://askubuntu.com/questions/792814/how-to-check-if-my-ubuntu-is-placed-on-ssd
+https://www.tecmint.com/find-linux-filesystem-type/
+https://wiki.archlinux.org/index.php/E4rat
+
+## gestures
+https://www.youtube.com/watch?v=ArBCfhVsTZw
+https://support.apple.com/pt-br/HT204895
+https://www.windowscentral.com/windows-10-touchpad-gestures
+https://www.tenforums.com/tutorials/148114-how-enable-disable-touchpad-multifinger-gestures-windows-10-a.html
+
+## APT
+https://qastack.com.br/ubuntu/319433/making-mirror-mirrors-ubuntu-com-highly-available
+https://vitux.com/how-to-speed-up-package-downloads-and-updates-with-apt-fast-on-ubuntu/
+https://github.com/jblakeman/apt-select/blob/master/README.rst
+https://github.com/ilikenwf/apt-fast
+https://itsfoss.com/apt-vs-apt-get-difference/
+https://www.ostechnix.com/how-to-find-and-remove-unused-packages-in-linux/
+
+## PLank settings
+https://www.linuxuprising.com/2019/12/a-guide-to-using-plank-dock-on-linux.html
+
