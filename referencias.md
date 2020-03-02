@@ -158,3 +158,7 @@ https://www.ostechnix.com/how-to-find-and-remove-unused-packages-in-linux/
 ## PLank settings
 https://www.linuxuprising.com/2019/12/a-guide-to-using-plank-dock-on-linux.html
 
+## topbar
+https://www.omgubuntu.co.uk/2017/04/change-gnome-shell-font
+https://www.fossmint.com/topicons-plus-display-gnome-icons-in-the-top-panel/
+
