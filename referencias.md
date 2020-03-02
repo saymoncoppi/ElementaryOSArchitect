@@ -213,4 +213,5 @@ https://www.reddit.com/r/elementaryos/comments/8epuj9/jack_and_pulse_and_making_
 
 ## greeter
 https://www.reddit.com/r/elementaryos/comments/d3mxfi/change_new_greeters_background/
+https://github.com/elementary/greeter/tree/blurred-background
 
