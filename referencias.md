@@ -186,3 +186,10 @@ https://wiki.archlinux.org/index.php/GNOME/Tips_and_tricks
 
 ## Fonts
 http://www.linuxfromscratch.org/blfs/view/svn/x/tuning-fontconfig.html
+
+## privacy/ security
+https://github.com/hectorm/hblock
+https://github.com/SecUpwN/Spotify-AdKiller
+https://itsfoss.com/set-up-firewall-gufw/
+https://wiki.ubuntu.com/UncomplicatedFirewall
+https://www.msp360.com/resources/blog/ubuntu-security-hardening-best-practices/
