@@ -3,18 +3,44 @@ Desde que eu fui forçado a migrar do Deepin por causa do suporte ao HW do meu n
 
 
 
-## Jogos
+## Isso funciona para o video
 https://connorkuehl.github.io/dell-inspiron-7559-linux-guide/
 https://www.reddit.com/r/linux_gaming/comments/aoh5be/guide_hybrid_graphics_on_linux_nvidia_optimus/?utm_source=amp&utm_medium=&utm_content=post_body
-
-# Isso funciona para o video
-https://www.dell.com/support/article/br/pt/brbsdt1/sln298431/um-guia-para-a-nvidia-optimus-em-pcs-dell-com-um-sistema-operacional-ubuntu?lang=pt
 https://gist.github.com/wangruohui/df039f0dc434d6486f5d4d098aa52d07
 https://community.clearlinux.org/t/bash-scripts-to-automate-installation-of-nvidia-proprietary-driver/368
 https://www.reddit.com/r/linux_gaming/comments/aoh5be/guide_hybrid_graphics_on_linux_nvidia_optimus/
-https://community.clearlinux.org/t/bash-scripts-to-automate-installation-of-nvidia-proprietary-driver/368
-linux prime is not supported?
 https://forum.manjaro.org/t/howto-set-up-prime-with-nvidia-proprietary-driver/40225
+
+Referencias:
+
+Dell:
+https://www.dell.com/support/article/br/pt/brbsdt1/sln298431/um-guia-para-a-nvidia-optimus-em-pcs-dell-com-um-sistema-operacional-ubuntu?lang=pt
+
+Blacklist nouveau
+https://linuxconfig.org/how-to-disable-nouveau-nvidia-driver-on-ubuntu-18-04-bionic-beaver-linux
+https://tutorials.technology/tutorials/85-How-to-remove-Nouveau-kernel-driver-Nvidia-install-error.html
+http://lxle.net/forums/discussion/1457/tutorial-how-to-blacklist-nouveau-install-nvidia-drivers/p1
+
+A propria nvia falar pra usar o driver da distro
+https://www.nvidia.com.br/Download/driverResults.aspx/156799/br
+http://us.download.nvidia.com/XFree86/Linux-x86_64/435.21/README/index.html
+
+
+touch blacklist-nouveau-nvidia.conf
+nano blacklist-nouveau-nvidia.conf
+blacklist nouveau
+blacklist lbm-nouveau
+options nouveau modeset=0
+alias nouveau off
+alias lbm-nouveau off
+
+echo options nouveau modeset=0 | sudo tee -a /etc/modprobe.d/balcklist-nouveau-kms.conf
+
+sudo update-initramfs -u
+reboot
+
+sudo apt install nvidia-driver-XXX nvidia-prime nvidia-settings
+
 
 
 
