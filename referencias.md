@@ -60,36 +60,30 @@ https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
 ## tema de cursor
 https://www.gnome-look.org/p/1084938/
 
-Ajuste da altura do tema
-https://unix.stackexchange.com/questions/276951/how-to-change-the-titlebar-height-in-standard-gtk-apps-and-those-with-headerbars
 
-coisas pra fazer depois de instalar
+
+## coisas pra fazer depois de instalar
 https://gist.github.com/ankurk91/2327d4881d71a098e3bfcd0b1c255d83
-
 https://ditchwindows.com/elementary-os-community-tips-and-tricks/
-
 https://averagelinuxuser.com/after-install-elementary-juno/
 
 ## Sinapse e indicadores
 https://github.com/mdh34/elementary-indicators
+https://itsfoss.com/best-indicator-applets-ubuntu/
+
 https://www.youtube.com/watch?v=rg2YBhl7Zhg synapse
 http://www.webupd8.org/2013/06/synapse-indicator-new-search.html
-
 https://app.simplenote.com/p/tJ0t2R
-
-http://eos-snippets.blogspot.com/2013/10/fix-boot-screen-plymouth-after.html
 
 https://elementaryos.stackexchange.com/questions/13058/replacing-slingshot
 
-
+https://www.reddit.com/r/elementaryos/comments/fbkp2n/elementary_os_hera_51_app_window_switcher_custom/
 
 
 ## Perfect elementary references
 https://gist.github.com/ezeeyahoo/b21c0e12bf4c39622af8
-
 http://eos-snippets.blogspot.com/2014/02/add-open-as-root-to-pantheon-files.html
 
-https://www.linuxuprising.com/2019/07/material-shell-is-new-tiling-shell-for.html
 
 
 ## single click (no need sudo)
@@ -117,6 +111,7 @@ https://unix.stackexchange.com/questions/399986/systemd-change-default-login-tty
 
 ## agetty remove blinking cursor
 https://wiki.archlinux.org/index.php/Silent_boot
+http://eos-snippets.blogspot.com/2013/10/fix-boot-screen-plymouth-after.html
 
 ## TLP no PopOS
 https://support.system76.com/articles/battery/
@@ -126,6 +121,7 @@ https://4fasters.com.br/2018/08/14/tunando-seu-sistema-linux-com-tuned/
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/power_management_guide/tuned
 https://wiki.debian.org/BootProcessSpeedup
 https://konkor.github.io/cpufreq/about/
+https://www.youtube.com/watch?v=3JRaQ-MxwV8
 
 
 ## drivers
@@ -161,4 +157,15 @@ https://www.linuxuprising.com/2019/12/a-guide-to-using-plank-dock-on-linux.html
 ## topbar
 https://www.omgubuntu.co.uk/2017/04/change-gnome-shell-font
 https://www.fossmint.com/topicons-plus-display-gnome-icons-in-the-top-panel/
+https://unix.stackexchange.com/questions/276951/how-to-change-the-titlebar-height-in-standard-gtk-apps-and-those-with-headerbars
+
+## tiling window
+https://github.com/microsoft/PowerToys
+https://www.linuxuprising.com/2019/07/material-shell-is-new-tiling-shell-for.html
+https://www.youtube.com/watch?v=NrG594GvS8k
+
+https://www.youtube.com/watch?v=fjdonz3_Z-I
+https://spin.atomicobject.com/2018/07/12/tiling-window-managers-macos/
+https://github.com/ianyh/Amethyst
+youtube.com/watch?v=J8ywPXvL03A
 
