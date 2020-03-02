@@ -7,26 +7,31 @@ Desde que eu fui forçado a migrar do Deepin por causa do suporte ao HW do meu n
 https://connorkuehl.github.io/dell-inspiron-7559-linux-guide/
 https://www.reddit.com/r/linux_gaming/comments/aoh5be/guide_hybrid_graphics_on_linux_nvidia_optimus/?utm_source=amp&utm_medium=&utm_content=post_body
 
-Isso funciona para o video
+# Isso funciona para o video
 https://www.dell.com/support/article/br/pt/brbsdt1/sln298431/um-guia-para-a-nvidia-optimus-em-pcs-dell-com-um-sistema-operacional-ubuntu?lang=pt
-
-mais sobre o video
+https://gist.github.com/wangruohui/df039f0dc434d6486f5d4d098aa52d07
+https://community.clearlinux.org/t/bash-scripts-to-automate-installation-of-nvidia-proprietary-driver/368
 https://www.reddit.com/r/linux_gaming/comments/aoh5be/guide_hybrid_graphics_on_linux_nvidia_optimus/
-
+https://community.clearlinux.org/t/bash-scripts-to-automate-installation-of-nvidia-proprietary-driver/368
 linux prime is not supported?
 https://forum.manjaro.org/t/howto-set-up-prime-with-nvidia-proprietary-driver/40225
 
 
-tema
+
+## tema GTK
 https://github.com/B00merang-Project/Windows-10
 https://github.com/nana-4/materia-theme
 https://github.com/adapta-project/adapta-gtk-theme
+https://averagelinuxuser.com/solus-themes/
 
-icons
+## tema de icons
 https://www.edivaldobrito.com.br/material-design-paper-no-ubuntu/
 https://github.com/surajmandalcell/elementary-x/blob/master/install_fixed_icons.sh
 
-cursor
+https://github.com/snwh/paper-icon-theme commando para ajustar icon
+https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
+
+## tema de cursor
 https://www.gnome-look.org/p/1084938/
 
 Ajuste da altura do tema
@@ -39,6 +44,7 @@ https://ditchwindows.com/elementary-os-community-tips-and-tricks/
 
 https://averagelinuxuser.com/after-install-elementary-juno/
 
+## Sinapse e indicadores
 https://github.com/mdh34/elementary-indicators
 https://www.youtube.com/watch?v=rg2YBhl7Zhg synapse
 http://www.webupd8.org/2013/06/synapse-indicator-new-search.html
@@ -50,8 +56,7 @@ http://eos-snippets.blogspot.com/2013/10/fix-boot-screen-plymouth-after.html
 https://elementaryos.stackexchange.com/questions/13058/replacing-slingshot
 
 
-https://github.com/snwh/paper-icon-theme commando para ajustar icon
-https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
+
 
 ## Perfect elementary references
 https://gist.github.com/ezeeyahoo/b21c0e12bf4c39622af8
@@ -64,20 +69,6 @@ https://www.linuxuprising.com/2019/07/material-shell-is-new-tiling-shell-for.htm
 ## single click (no need sudo)
 gsettings set io.elementary.files.preferences single-click false
 
-## grub themes
-https://github.com/mateosss/matter
-https://github.com/vinceliuice/grub2-themes
-https://github.com/endeavouros-team/grub2-theme-endeavouros
-https://github.com/shvchk/poly-dark
-https://github.com/Generator/Grub2-themes
-http://grub.gibibit.com/Theme_format
-
-## grub
-http://www.pclinuxos.com/forum/index.php?topic=135915.0
-https://ubuntuforums.org/showthread.php?t=1287602
-
-## default grub wallpaper
-https://news-cdn.softpedia.com/images/news2/here-s-the-default-theme-and-artwork-for-debian-gnu-linux-10-buster-524538-4.jpg
 
 ## default wallpaper + lidghtdm 
 https://www.faqforge.com/linux/set-lightdm-wallpaper-that-is-independant-of-the-users-wallpaper-ubuntulinux-mint/
@@ -96,6 +87,9 @@ https://unix.stackexchange.com/questions/399986/systemd-change-default-login-tty
 
 /etc/init/lightdm.conf
 /etc/systemd/system/display-manager.service
+
+## agetty remove blinking cursor
+https://wiki.archlinux.org/index.php/Silent_boot
 
 ## TLP no PopOS
 https://support.system76.com/articles/battery/
