@@ -187,6 +187,14 @@ https://wiki.archlinux.org/index.php/GNOME/Tips_and_tricks
 ## Fonts
 http://www.linuxfromscratch.org/blfs/view/svn/x/tuning-fontconfig.html
 https://www.fossmint.com/fontbase-font-manager-for-linux-designers/
+https://www.reddit.com/r/archlinux/comments/5r5ep8/make_your_arch_fonts_beautiful_easily/
+https://forums.linuxmint.com/viewtopic.php?t=286734
+common way
+sudo apt-get install –reinstall ttf-mscorefonts-installer
+sharing windows folder
+https://www.ostechnix.com/install-microsoft-windows-fonts-ubuntu-16-04/
+https://en.wikibooks.org/wiki/Category:Book:Guide_to_X11
+
 
 ## privacy/ security
 https://github.com/hectorm/hblock
@@ -195,3 +203,14 @@ https://github.com/SecUpwN/Spotify-AdKiller
 https://itsfoss.com/set-up-firewall-gufw/
 https://wiki.ubuntu.com/UncomplicatedFirewall
 https://www.msp360.com/resources/blog/ubuntu-security-hardening-best-practices/
+
+
+## Gala
+https://www.youtube.com/watch?v=-_JQG7Q7MtE
+
+## Sound
+https://www.reddit.com/r/elementaryos/comments/8epuj9/jack_and_pulse_and_making_music_with_loki/
+
+## greeter
+https://www.reddit.com/r/elementaryos/comments/d3mxfi/change_new_greeters_background/
+
