@@ -186,9 +186,11 @@ https://wiki.archlinux.org/index.php/GNOME/Tips_and_tricks
 
 ## Fonts
 http://www.linuxfromscratch.org/blfs/view/svn/x/tuning-fontconfig.html
+https://www.fossmint.com/fontbase-font-manager-for-linux-designers/
 
 ## privacy/ security
 https://github.com/hectorm/hblock
+https://github.com/pi-hole/pi-hole
 https://github.com/SecUpwN/Spotify-AdKiller
 https://itsfoss.com/set-up-firewall-gufw/
 https://wiki.ubuntu.com/UncomplicatedFirewall
