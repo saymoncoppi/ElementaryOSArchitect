@@ -122,6 +122,12 @@ https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/po
 https://wiki.debian.org/BootProcessSpeedup
 https://konkor.github.io/cpufreq/about/
 https://www.youtube.com/watch?v=3JRaQ-MxwV8
+http://www.brendangregg.com/linuxperf.html
+https://github.com/brendangregg/perf-tools
+
+https://wiki.archlinux.org/index.php/Improving_performance
+https://www.akitaonrails.com/2017/01/17/optimizing-linux-for-slow-computers
+
 
 
 ## drivers
@@ -174,3 +180,9 @@ https://github.com/artemanufrij/playmymusic
 
 ## editor markdown
 https://github.com/lainsce/quilter
+
+## gnome session cache
+https://wiki.archlinux.org/index.php/GNOME/Tips_and_tricks
+
+## Fonts
+http://www.linuxfromscratch.org/blfs/view/svn/x/tuning-fontconfig.html
