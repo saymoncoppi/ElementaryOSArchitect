@@ -169,3 +169,8 @@ https://spin.atomicobject.com/2018/07/12/tiling-window-managers-macos/
 https://github.com/ianyh/Amethyst
 youtube.com/watch?v=J8ywPXvL03A
 
+## Music Player
+https://github.com/artemanufrij/playmymusic
+
+## editor markdown
+https://github.com/lainsce/quilter
