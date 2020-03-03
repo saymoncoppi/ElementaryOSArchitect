@@ -232,6 +232,7 @@ https://askubuntu.com/questions/1154064/add-sound-theme-to-18-04
 https://opensource.com/article/18/6/sound-themes-linux
 https://elementaryos.stackexchange.com/questions/2593/how-do-you-change-the-alert-sound
 https://elementaryos.stackexchange.com/questions/17040/how-can-i-disable-sound-effect-of-deleting-files-in-elementary-os-5
+https://www.debugpoint.com/2018/08/how-install-sound-themes-ubuntu-linux/
 
 
 
