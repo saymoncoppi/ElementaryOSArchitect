@@ -174,6 +174,9 @@ https://www.linuxuprising.com/2019/12/a-guide-to-using-plank-dock-on-linux.html
 https://www.omgubuntu.co.uk/2017/04/change-gnome-shell-font
 https://www.fossmint.com/topicons-plus-display-gnome-icons-in-the-top-panel/
 https://unix.stackexchange.com/questions/276951/how-to-change-the-titlebar-height-in-standard-gtk-apps-and-those-with-headerbars
+https://elementaryos.stackexchange.com/questions/6840/how-to-replace-wingpanels-applications-text-with-a-icon-in-freya
+
+
 
 ## tiling window
 https://github.com/microsoft/PowerToys
