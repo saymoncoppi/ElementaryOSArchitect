@@ -202,6 +202,10 @@ sudo apt-get install –reinstall ttf-mscorefonts-installer
 sharing windows folder
 https://www.ostechnix.com/install-microsoft-windows-fonts-ubuntu-16-04/
 https://en.wikibooks.org/wiki/Category:Book:Guide_to_X11
+https://www.linux.com/tutorials/how-change-your-linux-console-fonts/
+https://www.extron.com/article/videowallfontsize
+http://resources.printhandbook.com/pages/viewing-distance-font-size.php
+https://alexandre.deverteuil.net/docs/archlinux-consolefonts/
 
 
 ## privacy/ security
