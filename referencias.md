@@ -185,8 +185,6 @@ https://spin.atomicobject.com/2018/07/12/tiling-window-managers-macos/
 https://github.com/ianyh/Amethyst
 youtube.com/watch?v=J8ywPXvL03A
 
-## Music Player
-https://github.com/artemanufrij/playmymusic
 
 ## editor markdown
 https://github.com/lainsce/quilter
@@ -220,6 +218,15 @@ https://www.youtube.com/watch?v=-_JQG7Q7MtE
 
 ## Sound
 https://www.reddit.com/r/elementaryos/comments/8epuj9/jack_and_pulse_and_making_music_with_loki/
+https://github.com/christophgysin/pasystray
+https://www.youtube.com/watch?v=lC6GHtLnoKE
+player
+https://github.com/artemanufrij/playmymusic
+sound themes
+https://github.com/linuxdeepin/developer-center/issues/1004
+https://askubuntu.com/questions/1154064/add-sound-theme-to-18-04
+https://opensource.com/article/18/6/sound-themes-linux
+
 
 ## greeter
 https://www.reddit.com/r/elementaryos/comments/d3mxfi/change_new_greeters_background/
