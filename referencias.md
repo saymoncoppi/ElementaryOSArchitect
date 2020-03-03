@@ -226,6 +226,7 @@ sound themes
 https://github.com/linuxdeepin/developer-center/issues/1004
 https://askubuntu.com/questions/1154064/add-sound-theme-to-18-04
 https://opensource.com/article/18/6/sound-themes-linux
+https://elementaryos.stackexchange.com/questions/2593/how-do-you-change-the-alert-sound
 
 
 ## greeter
