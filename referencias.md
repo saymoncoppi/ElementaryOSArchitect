@@ -4,13 +4,13 @@ Desde que eu fui forçado a migrar do Deepin por causa do suporte ao HW do meu n
 
 
 ## Isso funciona para o video
-https://connorkuehl.github.io/dell-inspiron-7559-linux-guide/
-https://www.reddit.com/r/linux_gaming/comments/aoh5be/guide_hybrid_graphics_on_linux_nvidia_optimus/?utm_source=amp&utm_medium=&utm_content=post_body
-https://gist.github.com/wangruohui/df039f0dc434d6486f5d4d098aa52d07
-https://community.clearlinux.org/t/bash-scripts-to-automate-installation-of-nvidia-proprietary-driver/368
-https://www.reddit.com/r/linux_gaming/comments/aoh5be/guide_hybrid_graphics_on_linux_nvidia_optimus/
-https://forum.manjaro.org/t/howto-set-up-prime-with-nvidia-proprietary-driver/40225
-https://ricostacruz.com/til/fractional-scaling-on-xorg-linux (escala do video igual ao ubuntu)
+https://connorkuehl.github.io/dell-inspiron-7559-linux-guide/ 
+https://www.reddit.com/r/linux_gaming/comments/aoh5be/guide_hybrid_graphics_on_linux_nvidia_optimus/?utm_source=amp&utm_medium=&utm_content=post_body \
+https://gist.github.com/wangruohui/df039f0dc434d6486f5d4d098aa52d07 \
+https://community.clearlinux.org/t/bash-scripts-to-automate-installation-of-nvidia-proprietary-driver/368 \
+https://www.reddit.com/r/linux_gaming/comments/aoh5be/guide_hybrid_graphics_on_linux_nvidia_optimus/ \
+https://forum.manjaro.org/t/howto-set-up-prime-with-nvidia-proprietary-driver/40225 \
+https://ricostacruz.com/til/fractional-scaling-on-xorg-linux (escala do video igual ao ubuntu) \
 https://gist.github.com/Brainiarc7/aa43570f512906e882ad6cdd835efe57 (tuning da placa intel)
 
 Referencias:
