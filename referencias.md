@@ -10,6 +10,8 @@ https://gist.github.com/wangruohui/df039f0dc434d6486f5d4d098aa52d07
 https://community.clearlinux.org/t/bash-scripts-to-automate-installation-of-nvidia-proprietary-driver/368
 https://www.reddit.com/r/linux_gaming/comments/aoh5be/guide_hybrid_graphics_on_linux_nvidia_optimus/
 https://forum.manjaro.org/t/howto-set-up-prime-with-nvidia-proprietary-driver/40225
+https://ricostacruz.com/til/fractional-scaling-on-xorg-linux (escala do video igual ao ubuntu)
+https://gist.github.com/Brainiarc7/aa43570f512906e882ad6cdd835efe57 (tuning da placa intel)
 
 Referencias:
 
@@ -53,6 +55,7 @@ https://averagelinuxuser.com/solus-themes/
 ## tema de icons
 https://www.edivaldobrito.com.br/material-design-paper-no-ubuntu/
 https://github.com/surajmandalcell/elementary-x/blob/master/install_fixed_icons.sh
+https://github.com/ubuntu/yaru
 
 https://github.com/snwh/paper-icon-theme commando para ajustar icon
 https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
@@ -85,6 +88,7 @@ https://gist.github.com/ankurk91/2327d4881d71a098e3bfcd0b1c255d83
 https://ditchwindows.com/elementary-os-community-tips-and-tricks/
 https://averagelinuxuser.com/after-install-elementary-juno/
 https://gist.github.com/Surendrajat/418d5fd66876848a7f21870fe09365a7
+https://www.saminiir.com/configuring-arch-linux-on-dell-xps-15/
 
 
 
@@ -133,6 +137,9 @@ https://github.com/brendangregg/perf-tools
 
 https://wiki.archlinux.org/index.php/Improving_performance
 https://www.akitaonrails.com/2017/01/17/optimizing-linux-for-slow-computers
+
+Hibernate
+https://elementaryos.stackexchange.com/questions/8927/how-to-enable-hibernate-option-in-menu-loki
 
 
 
@@ -209,15 +216,20 @@ https://www.linux.com/tutorials/how-change-your-linux-console-fonts/
 https://www.extron.com/article/videowallfontsize
 http://resources.printhandbook.com/pages/viewing-distance-font-size.php
 https://alexandre.deverteuil.net/docs/archlinux-consolefonts/
+https://wiki.archlinux.org/index.php/Microsoft_fonts
+xdpyinfo | grep resolution
+https://wiki.archlinux.org/index.php/Xorg
 
 
 ## privacy/ security
 https://github.com/hectorm/hblock
 https://github.com/pi-hole/pi-hole
+https://linoxide.com/linux-how-to/chomper-command-line-tool-block-website-linux/
 https://github.com/SecUpwN/Spotify-AdKiller
 https://itsfoss.com/set-up-firewall-gufw/
 https://wiki.ubuntu.com/UncomplicatedFirewall
 https://www.msp360.com/resources/blog/ubuntu-security-hardening-best-practices/
+http://www.yolinux.com/TUTORIALS/LinuxTutorialInternetSecurity.html
 
 
 ## Gala
@@ -248,3 +260,6 @@ https://www.faqforge.com/linux/set-lightdm-wallpaper-that-is-independant-of-the-
 gsettings get org.gnome.desktop.background picture-uri
 
 
+## Download tools
+https://persepolisdm.github.io/
+transmission
