@@ -28,17 +28,17 @@ https://www.nvidia.com.br/Download/driverResults.aspx/156799/br \
 http://us.download.nvidia.com/XFree86/Linux-x86_64/435.21/README/index.html
 
 
-touch blacklist-nouveau-nvidia.conf
-nano blacklist-nouveau-nvidia.conf
-blacklist nouveau
-blacklist lbm-nouveau
-options nouveau modeset=0
-alias nouveau off
+touch blacklist-nouveau-nvidia.conf \
+nano blacklist-nouveau-nvidia.conf \
+blacklist nouveau \
+blacklist lbm-nouveau \
+options nouveau modeset=0 \
+alias nouveau off \
 alias lbm-nouveau off
 
 echo options nouveau modeset=0 | sudo tee -a /etc/modprobe.d/balcklist-nouveau-kms.conf
 
-sudo update-initramfs -u
+sudo update-initramfs -u \
 reboot
 
 sudo apt install nvidia-driver-XXX nvidia-prime nvidia-settings
@@ -47,17 +47,17 @@ sudo apt install nvidia-driver-XXX nvidia-prime nvidia-settings
 
 
 ## tema GTK
-https://github.com/B00merang-Project/Windows-10
-https://github.com/nana-4/materia-theme
-https://github.com/adapta-project/adapta-gtk-theme
-https://averagelinuxuser.com/solus-themes/
+https://github.com/B00merang-Project/Windows-10 \
+https://github.com/nana-4/materia-theme \
+https://github.com/adapta-project/adapta-gtk-theme \
+https://averagelinuxuser.com/solus-themes/ \
 
 ## tema de icons
-https://www.edivaldobrito.com.br/material-design-paper-no-ubuntu/
-https://github.com/surajmandalcell/elementary-x/blob/master/install_fixed_icons.sh
-https://github.com/ubuntu/yaru
+https://www.edivaldobrito.com.br/material-design-paper-no-ubuntu/ \
+https://github.com/surajmandalcell/elementary-x/blob/master/install_fixed_icons.sh \
+https://github.com/ubuntu/yaru \
 
-https://github.com/snwh/paper-icon-theme commando para ajustar icon
+https://github.com/snwh/paper-icon-theme commando para ajustar icon \
 https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
 
 ## tema de cursor
@@ -69,11 +69,11 @@ https://github.com/sprite-1/elementary-patches/tree/master/design/smaller_titleb
 
 
 ## Sinapse e indicadores
-https://github.com/mdh34/elementary-indicators
+https://github.com/mdh34/elementary-indicators \
 https://itsfoss.com/best-indicator-applets-ubuntu/
 
-https://www.youtube.com/watch?v=rg2YBhl7Zhg synapse
-http://www.webupd8.org/2013/06/synapse-indicator-new-search.html
+https://www.youtube.com/watch?v=rg2YBhl7Zhg synapse \
+http://www.webupd8.org/2013/06/synapse-indicator-new-search.html \
 https://app.simplenote.com/p/tJ0t2R
 
 https://elementaryos.stackexchange.com/questions/13058/replacing-slingshot
@@ -82,12 +82,12 @@ https://www.reddit.com/r/elementaryos/comments/fbkp2n/elementary_os_hera_51_app_
 
 
 ## Perfect elementary references
-https://gist.github.com/ezeeyahoo/b21c0e12bf4c39622af8
-http://eos-snippets.blogspot.com/2014/02/add-open-as-root-to-pantheon-files.html
-https://gist.github.com/ankurk91/2327d4881d71a098e3bfcd0b1c255d83
-https://ditchwindows.com/elementary-os-community-tips-and-tricks/
-https://averagelinuxuser.com/after-install-elementary-juno/
-https://gist.github.com/Surendrajat/418d5fd66876848a7f21870fe09365a7
+https://gist.github.com/ezeeyahoo/b21c0e12bf4c39622af8 \
+http://eos-snippets.blogspot.com/2014/02/add-open-as-root-to-pantheon-files.html \
+https://gist.github.com/ankurk91/2327d4881d71a098e3bfcd0b1c255d83 \
+https://ditchwindows.com/elementary-os-community-tips-and-tricks/ \
+https://averagelinuxuser.com/after-install-elementary-juno/ \
+https://gist.github.com/Surendrajat/418d5fd66876848a7f21870fe09365a7 \
 https://www.saminiir.com/configuring-arch-linux-on-dell-xps-15/
 
 
@@ -102,40 +102,40 @@ gsettings set io.elementary.files.preferences single-click false
 ------------------
 
 ## etc/systemd to reduce timeout for shutdown
-https://unix.stackexchange.com/questions/273876/a-stop-job-is-running-for-session-c2-of-user
-Disable "Continue running background apps when Google Chrome is closed".
-https://github.com/systemd/systemd/issues/1615#issuecomment-203507283
-https://unix.stackexchange.com/questions/328317/reducing-shutdown-timeout-for-a-stop-job-is-running
-https://askubuntu.com/questions/800479/ubuntu-16-04-slow-boot-apt-daily-service
+https://unix.stackexchange.com/questions/273876/a-stop-job-is-running-for-session-c2-of-user \
+Disable "Continue running background apps when Google Chrome is closed". \
+https://github.com/systemd/systemd/issues/1615#issuecomment-203507283 \
+https://unix.stackexchange.com/questions/328317/reducing-shutdown-timeout-for-a-stop-job-is-running \
+https://askubuntu.com/questions/800479/ubuntu-16-04-slow-boot-apt-daily-service \
 
 https://elementaryos.stackexchange.com/questions/12155/desktop-takes-forever-to-load-after-restart
 
 ## Flicker free booting improvments
-Systemd Alinhando XDG_VTNR
-https://unix.stackexchange.com/questions/521037/what-is-the-environment-variable-xdg-vtnr https://askubuntu.com/questions/910108/why-is-my-gdm-at-a-different-tty-than-my-desktop-environment
+Systemd Alinhando XDG_VTNR \
+https://unix.stackexchange.com/questions/521037/what-is-the-environment-variable-xdg-vtnr \ https://askubuntu.com/questions/910108/why-is-my-gdm-at-a-different-tty-than-my-desktop-environment \
 https://unix.stackexchange.com/questions/399986/systemd-change-default-login-tty
 
-/etc/init/lightdm.conf
+/etc/init/lightdm.conf \
 /etc/systemd/system/display-manager.service
 
 ## agetty remove blinking cursor
-https://wiki.archlinux.org/index.php/Silent_boot
-http://eos-snippets.blogspot.com/2013/10/fix-boot-screen-plymouth-after.html
+https://wiki.archlinux.org/index.php/Silent_boot \
+http://eos-snippets.blogspot.com/2013/10/fix-boot-screen-plymouth-after.html \
 
 ## TLP no PopOS
-https://support.system76.com/articles/battery/
+https://support.system76.com/articles/battery/ \
 https://github.com/pop-os/system76-power
 
 ## Performance
-https://4fasters.com.br/2018/08/14/tunando-seu-sistema-linux-com-tuned/
-https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/power_management_guide/tuned
-https://wiki.debian.org/BootProcessSpeedup
-https://konkor.github.io/cpufreq/about/
-https://www.youtube.com/watch?v=3JRaQ-MxwV8
-http://www.brendangregg.com/linuxperf.html
+https://4fasters.com.br/2018/08/14/tunando-seu-sistema-linux-com-tuned/ \
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/power_management_guide/tuned \
+https://wiki.debian.org/BootProcessSpeedup \
+https://konkor.github.io/cpufreq/about/ \
+https://www.youtube.com/watch?v=3JRaQ-MxwV8 \
+http://www.brendangregg.com/linuxperf.html \
 https://github.com/brendangregg/perf-tools
 
-https://wiki.archlinux.org/index.php/Improving_performance
+https://wiki.archlinux.org/index.php/Improving_performance \
 https://www.akitaonrails.com/2017/01/17/optimizing-linux-for-slow-computers
 
 Hibernate
@@ -147,13 +147,13 @@ https://elementaryos.stackexchange.com/questions/8927/how-to-enable-hibernate-op
 https://unix.stackexchange.com/questions/41817/linux-how-to-find-the-device-driver-used-for-a-device/225496#225496
 
 ## SSD
-https://easylinuxtipsproject.blogspot.com/p/ssd.html
-https://medium.com/@dardovaldez/fine-tunning-a-ssd-for-a-t470-ubuntu-18-04-b504dceaef50
-https://www.addictivetips.com/ubuntu-linux-tips/best-ssd-friendly-file-systems-on-linux/
-https://wiki.debian.org/SSDOptimization
-https://wiki.archlinux.org/index.php/Solid_state_drive
-https://askubuntu.com/questions/792814/how-to-check-if-my-ubuntu-is-placed-on-ssd
-https://www.tecmint.com/find-linux-filesystem-type/
+https://easylinuxtipsproject.blogspot.com/p/ssd.html \
+https://medium.com/@dardovaldez/fine-tunning-a-ssd-for-a-t470-ubuntu-18-04-b504dceaef50 \
+https://www.addictivetips.com/ubuntu-linux-tips/best-ssd-friendly-file-systems-on-linux/ \
+https://wiki.debian.org/SSDOptimization \
+https://wiki.archlinux.org/index.php/Solid_state_drive \
+https://askubuntu.com/questions/792814/how-to-check-if-my-ubuntu-is-placed-on-ssd \
+https://www.tecmint.com/find-linux-filesystem-type/ \
 https://wiki.archlinux.org/index.php/E4rat
 
 ## gestures
