@@ -47,18 +47,46 @@ sudo apt install nvidia-driver-XXX nvidia-prime nvidia-settings
 
 
 ## tema GTK
+
+gsettings set org.gnome.desktop.interface gtk-theme Ant
+gsettings set org.gnome.desktop.wm.preferences theme Ant
+
+
 https://github.com/B00merang-Project/Windows-10 \
 https://github.com/nana-4/materia-theme \
 https://github.com/adapta-project/adapta-gtk-theme \
 https://averagelinuxuser.com/solus-themes/ \
 
 ## tema de icons
+Vince
+https://github.com/vinceliuice/Tela-icon-theme
+https://github.com/vinceliuice/Tela-circle-icon-theme
+https://github.com/vinceliuice/Qogir-icon-theme
+
+Numix
+https://github.com/numixproject/numix-icon-theme
+https://github.com/numixproject/numix-icon-theme-square
+https://github.com/numixproject/numix-icon-theme-circle
+
+Papirus
+https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
+
+Sam Hewitt
+https://github.com/snwh/paper-icon-theme
+https://github.com/snwh/suru-icon-theme
+
+La Capitaine
+https://github.com/keeferrourke/la-capitaine-icon-theme
+
 https://www.edivaldobrito.com.br/material-design-paper-no-ubuntu/ \
 https://github.com/surajmandalcell/elementary-x/blob/master/install_fixed_icons.sh \
-https://github.com/ubuntu/yaru \
 
-https://github.com/snwh/paper-icon-theme commando para ajustar icon \
-https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
+Ubuntu
+https://github.com/ubuntu/yaru
+
+Boston
+https://github.com/heychrisd/Boston-Icons
+
 
 ## tema de cursor
 https://www.gnome-look.org/p/1084938/
@@ -167,12 +195,14 @@ https://www.tenforums.com/tutorials/148114-how-enable-disable-touchpad-multifing
  sudo apt -y install apt-fast
  echo "alias apt='apt-fast'" >> ~/.bashrc 
  source ~/.bashrc
-https://qastack.com.br/ubuntu/319433/making-mirror-mirrors-ubuntu-com-highly-available
-https://vitux.com/how-to-speed-up-package-downloads-and-updates-with-apt-fast-on-ubuntu/
-https://github.com/jblakeman/apt-select/blob/master/README.rst
-https://github.com/ilikenwf/apt-fast
-https://itsfoss.com/apt-vs-apt-get-difference/
-https://www.ostechnix.com/how-to-find-and-remove-unused-packages-in-linux/
+https://qastack.com.br/ubuntu/319433/making-mirror-mirrors-ubuntu-com-highly-available \
+https://vitux.com/how-to-speed-up-package-downloads-and-updates-with-apt-fast-on-ubuntu/ \
+https://github.com/jblakeman/apt-select/blob/master/README.rst \
+https://github.com/ilikenwf/apt-fast \
+https://itsfoss.com/apt-vs-apt-get-difference/ \
+https://www.ostechnix.com/how-to-find-and-remove-unused-packages-in-linux/ \
+https://www.hiroom2.com/2016/05/18/ubuntu-16-04-auto-apt-update-and-apt-upgrade/ \
+https://debian-handbook.info/browse/stable/sect.regular-upgrades.html
 
 ## Plank settings
 https://www.linuxuprising.com/2019/12/a-guide-to-using-plank-dock-on-linux.html
