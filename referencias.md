@@ -48,38 +48,43 @@ sudo apt install nvidia-driver-XXX nvidia-prime nvidia-settings
 
 ## tema GTK
 
-gsettings set org.gnome.desktop.interface gtk-theme Ant
+gsettings set org.gnome.desktop.interface gtk-theme Ant \
 gsettings set org.gnome.desktop.wm.preferences theme Ant
 
+https://github.com/snwh/paper-gtk-theme
 
+https://github.com/B00merang-Project
 https://github.com/B00merang-Project/Windows-10 \
+
 https://github.com/nana-4/materia-theme \
+
 https://github.com/adapta-project/adapta-gtk-theme \
 https://averagelinuxuser.com/solus-themes/ \
 
 ## tema de icons
 Vince
-https://github.com/vinceliuice/Tela-icon-theme
-https://github.com/vinceliuice/Tela-circle-icon-theme
-https://github.com/vinceliuice/Qogir-icon-theme
+https://github.com/vinceliuice/Tela-icon-theme \
+https://github.com/vinceliuice/Tela-circle-icon-theme \
+https://github.com/vinceliuice/Qogir-icon-theme \
+https://github.com/vinceliuice/emerald-icon-theme
 
 Numix
-https://github.com/numixproject/numix-icon-theme
-https://github.com/numixproject/numix-icon-theme-square
+https://github.com/numixproject/numix-icon-theme \
+https://github.com/numixproject/numix-icon-theme-square \
 https://github.com/numixproject/numix-icon-theme-circle
 
 Papirus
 https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
 
 Sam Hewitt
-https://github.com/snwh/paper-icon-theme
+https://github.com/snwh/paper-icon-theme \
 https://github.com/snwh/suru-icon-theme
 
 La Capitaine
 https://github.com/keeferrourke/la-capitaine-icon-theme
 
-https://www.edivaldobrito.com.br/material-design-paper-no-ubuntu/ \
-https://github.com/surajmandalcell/elementary-x/blob/master/install_fixed_icons.sh \
+Ubuntosh Icons
+https://github.com/USBA/Ubuntosh-Icons
 
 Ubuntu
 https://github.com/ubuntu/yaru
@@ -87,6 +92,14 @@ https://github.com/ubuntu/yaru
 Boston
 https://github.com/heychrisd/Boston-Icons
 
+daniruiz
+https://github.com/daniruiz/flat-remix
+
+Elementary
+https://github.com/elementary/icons
+
+Deepin
+https://github.com/linuxdeepin/deepin-icon-theme
 
 ## tema de cursor
 https://www.gnome-look.org/p/1084938/
