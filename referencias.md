@@ -46,12 +46,14 @@ sudo apt install nvidia-driver-XXX nvidia-prime nvidia-settings
 
 
 
-## tema GTK
+## GTK
 
 gsettings set org.gnome.desktop.interface gtk-theme Ant \
 gsettings set org.gnome.desktop.wm.preferences theme Ant
 
 https://github.com/snwh/paper-gtk-theme
+
+https://github.com/numixproject/numix-gtk-theme
 
 https://github.com/B00merang-Project
 https://github.com/B00merang-Project/Windows-10 \
@@ -59,9 +61,16 @@ https://github.com/B00merang-Project/Windows-10 \
 https://github.com/nana-4/materia-theme \
 
 https://github.com/adapta-project/adapta-gtk-theme \
-https://averagelinuxuser.com/solus-themes/ \
 
-## tema de icons
+https://github.com/pop-os/gtk-theme \
+
+https://github.com/arc-design/arc-theme
+
+https://github.com/EliverLara/Ant-Dracula
+
+https://github.com/EliverLara/Nordic
+
+## Icons
 Vince
 https://github.com/vinceliuice/Tela-icon-theme \
 https://github.com/vinceliuice/Tela-circle-icon-theme \
@@ -100,6 +109,10 @@ https://github.com/elementary/icons
 
 Deepin
 https://github.com/linuxdeepin/deepin-icon-theme
+
+PopOS
+https://github.com/pop-os/icon-theme
+
 
 ## tema de cursor
 https://www.gnome-look.org/p/1084938/
