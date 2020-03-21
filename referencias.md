@@ -319,3 +319,6 @@ gsettings get org.gnome.desktop.background picture-uri
 ## Download tools
 https://persepolisdm.github.io/
 transmission
+
+## Wireless
+https://diolinux.com.br/2019/01/como-resolver-o-problema-wireless-realtek-rtl8723be-ubuntu-linux-mint.html
