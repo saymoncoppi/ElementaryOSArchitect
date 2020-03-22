@@ -115,7 +115,13 @@ https://github.com/pop-os/icon-theme
 
 
 ## tema de cursor
-https://www.gnome-look.org/p/1084938/
+https://www.gnome-look.org/p/1084938/ \
+https://github.com/ganwell/dmz-cursors hdpi \
+https://code.launchpad.net/ubuntu/+source/dmz-cursor-theme \
+https://github.com/madsrh/yet-another-DMZ-cursor-theme \
+https://github.com/KDE/breeze/tree/master/cursors \
+
+
 
 ## gtk titulos
 https://github.com/sprite-1/elementary-patches/tree/master/design/smaller_titlebar_for_non-gtk_applications
