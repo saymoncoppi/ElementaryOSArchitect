@@ -327,3 +327,6 @@ https://itsfoss.com/speed-up-slow-wifi-connection-ubuntu/
 https://www.reddit.com/r/elementaryos/comments/1y2y6u/no_wireless_connections_found_on_elementaryos/
 https://medium.com/@surajmandal/using-old-mintdrivers-in-elementary-os-to-fix-driver-issues-working-2017-4b858f00157d
 
+## Zram
+https://github.com/GalliumOS/zram-config
+
