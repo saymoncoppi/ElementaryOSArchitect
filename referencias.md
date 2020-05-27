@@ -261,6 +261,9 @@ youtube.com/watch?v=J8ywPXvL03A
 ## editor markdown
 https://github.com/lainsce/quilter
 
+## terminal themes
+http://mayccoll.github.io/Gogh/
+
 ## gnome session cache
 https://wiki.archlinux.org/index.php/GNOME/Tips_and_tricks
 
