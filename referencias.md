@@ -341,3 +341,6 @@ https://github.com/GalliumOS/zram-config
 
 ## Accounts + ControlCenter
 https://www.reallinuxuser.com/how-to-add-more-online-accounts-to-elementary-os-by-installing-gnome-control-center/
+
+## Tilling windows
+https://ssokolow.com/quicktile/
