@@ -245,6 +245,9 @@ https://www.fossmint.com/topicons-plus-display-gnome-icons-in-the-top-panel/ \
 https://unix.stackexchange.com/questions/276951/how-to-change-the-titlebar-height-in-standard-gtk-apps-and-those-with-headerbars \
 https://elementaryos.stackexchange.com/questions/6840/how-to-replace-wingpanels-applications-text-with-a-icon-in-freya
 
+https://github.com/donadigo/wingpanel-indicator-namarupa
+https://forum.elementarybr.org/d/36-como-usar-os-aplicativos-que-dependem-dos-indicadores-no-juno/8
+
 
 
 ## tiling window
