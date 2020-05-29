@@ -217,9 +217,9 @@ https://www.tecmint.com/find-linux-filesystem-type/ \
 https://wiki.archlinux.org/index.php/E4rat
 
 ## gestures
-https://www.youtube.com/watch?v=ArBCfhVsTZw
-https://support.apple.com/pt-br/HT204895
-https://www.windowscentral.com/windows-10-touchpad-gestures
+https://www.youtube.com/watch?v=ArBCfhVsTZw \
+https://support.apple.com/pt-br/HT204895 \
+https://www.windowscentral.com/windows-10-touchpad-gestures \
 https://www.tenforums.com/tutorials/148114-how-enable-disable-touchpad-multifinger-gestures-windows-10-a.html
 
 ## APT
@@ -240,9 +240,9 @@ https://debian-handbook.info/browse/stable/sect.regular-upgrades.html
 https://www.linuxuprising.com/2019/12/a-guide-to-using-plank-dock-on-linux.html
 
 ## topbar
-https://www.omgubuntu.co.uk/2017/04/change-gnome-shell-font
-https://www.fossmint.com/topicons-plus-display-gnome-icons-in-the-top-panel/
-https://unix.stackexchange.com/questions/276951/how-to-change-the-titlebar-height-in-standard-gtk-apps-and-those-with-headerbars
+https://www.omgubuntu.co.uk/2017/04/change-gnome-shell-font \
+https://www.fossmint.com/topicons-plus-display-gnome-icons-in-the-top-panel/ \
+https://unix.stackexchange.com/questions/276951/how-to-change-the-titlebar-height-in-standard-gtk-apps-and-those-with-headerbars \
 https://elementaryos.stackexchange.com/questions/6840/how-to-replace-wingpanels-applications-text-with-a-icon-in-freya
 
 
