@@ -184,6 +184,7 @@ http://eos-snippets.blogspot.com/2013/10/fix-boot-screen-plymouth-after.html \
 
 ## TLP no PopOS
 https://support.system76.com/articles/battery/ \
+https://www.linuxbabe.com/linux-server/how-to-enable-etcrc-local-with-systemd
 https://github.com/pop-os/system76-power
 
 ## Performance
