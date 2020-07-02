@@ -348,3 +348,13 @@ https://www.reallinuxuser.com/how-to-add-more-online-accounts-to-elementary-os-b
 
 ## Tilling windows
 https://ssokolow.com/quicktile/
+
+## LibreOffice
+https://www.deviantart.com/crmareli/art/Libre-Office-Applications-Icons-478932157
+https://www.deviantart.com/diazchris/art/LibreOffice-icons-for-Boston-theme-Obsolete-585024439
+https://www.deviantart.com/crmareli/art/Libre-Office-Open-Office-File-icons-469058368
+
+https://www.libreoffice.org/download/download/
+https://wiki.documentfoundation.org/Documentation/Install/Linux#Debian_.2F_Ubuntu_.2F_Mint
+https://documentation.libreoffice.org/en/english-documentation/
+
