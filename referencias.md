@@ -288,6 +288,7 @@ https://alexandre.deverteuil.net/docs/archlinux-consolefonts/
 https://wiki.archlinux.org/index.php/Microsoft_fonts
 xdpyinfo | grep resolution
 https://wiki.archlinux.org/index.php/Xorg
+https://www.w7df.com/p/windows-10.html
 
 
 ## privacy/ security
@@ -354,4 +355,5 @@ https://www.libreoffice.org/download/download/
 https://wiki.documentfoundation.org/Documentation/Install/Linux#Debian_.2F_Ubuntu_.2F_Mint
 https://documentation.libreoffice.org/en/english-documentation/
 https://github.com/heychrisd/Boston-Icons
+
 
